@@ -2,7 +2,7 @@
 
 //2. Hesap Makinesini Kullanan Bot
 
-include 'index.php';
+include 'calculator.php';
 
 $calculations = [];
 
